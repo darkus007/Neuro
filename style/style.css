@@ -1,0 +1,39 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+p {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin-top: 5px;
+}
+
+.wrapper_training {
+    display: inline-block;
+    padding: 5px;
+}
+
+.wrapper_task {
+    display: inline-block;
+    padding: 5px;
+}
+
+.wrapper_training_input {
+    margin-top: 5px;
+}
+
+.wrapper_training_output input{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+}
